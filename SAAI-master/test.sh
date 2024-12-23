@@ -1,0 +1,2 @@
+#python test.py --cfg configs/RegDB.yml --checkpoint checkpoints/regdb/RegDB_RegDB_p7_dp_l2_seed_0/model_best.pth;
+python test.py --cfg configs/SYSU.yml --checkpoint checkpoints/sysu/SYSU_SYSU_p7_dp_l2_seed_0/SYSU_SYSU_p7_dp_l2_seed_0_model_1.pth;
